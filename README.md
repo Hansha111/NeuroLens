@@ -1,6 +1,7 @@
 NeuroLens: AI Vision & Language
 NeuroLens is an AI that describes images and answers questions about them using Hugging Face Transformers. Built in Python, it runs on Google Colab.
-Features
+
+Features:
 
 Image Captioning: Describes images (e.g., “A cat on a couch”).
 Visual Question Answering (VQA): Answers questions (e.g., “Is the cat black?” → “Yes”).
